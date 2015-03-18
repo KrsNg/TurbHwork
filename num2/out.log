@@ -1,0 +1,73 @@
+ a is = 1
+  b is = 10000
+   c is = 5000.5
+ f(a) is = -39999.9
+  f(b) is = 423904
+   f(c) is = 174920
+    --------------U_ave is: 21.4898
+ a is = 1
+  b is = 5000.5
+   c is = 2500.75
+ f(a) is = -39999.9
+  f(b) is = 174920
+   f(c) is = -nan
+    --------------U_ave is: -nan
+ a is = 2500.75
+  b is = 5000.5
+   c is = 3750.62
+ f(a) is = -nan
+  f(b) is = 174920
+   f(c) is = -nan
+    --------------U_ave is: -nan
+ a is = 3750.62
+  b is = 5000.5
+   c is = 4375.56
+ f(a) is = -nan
+  f(b) is = 174920
+   f(c) is = -nan
+    --------------U_ave is: -nan
+ a is = 4375.56
+  b is = 5000.5
+   c is = 4688.03
+ f(a) is = -nan
+  f(b) is = 174920
+   f(c) is = -nan
+    --------------U_ave is: -nan
+ a is = 4688.03
+  b is = 5000.5
+   c is = 4844.27
+ f(a) is = -nan
+  f(b) is = 174920
+   f(c) is = -nan
+    --------------U_ave is: -nan
+ a is = 4844.27
+  b is = 5000.5
+   c is = 4922.38
+ f(a) is = -nan
+  f(b) is = 174920
+   f(c) is = -nan
+    --------------U_ave is: -nan
+ a is = 4922.38
+  b is = 5000.5
+   c is = 4961.44
+ f(a) is = -nan
+  f(b) is = 174920
+   f(c) is = -nan
+    --------------U_ave is: -nan
+ a is = 4961.44
+  b is = 5000.5
+   c is = 4980.97
+ f(a) is = -nan
+  f(b) is = 174920
+   f(c) is = -nan
+    --------------U_ave is: -nan
+ a is = 4980.97
+  b is = 5000.5
+   c is = 4990.74
+ f(a) is = -nan
+  f(b) is = 174920
+   f(c) is = -nan
+    --------------U_ave is: -nan
+ Final results Re_D = -nan
+ Final results R+ = 4990.74
+Number of iterations = 10

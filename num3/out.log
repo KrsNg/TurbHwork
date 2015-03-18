@@ -1,0 +1,220 @@
+ 
+ 
+ iter is    0
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 59.6 and ymax from f_a is: 602
+Fmax_prev is: 2.31695 and Fmax from f_a is: 299.735
+ymax_new is: 602
+Fmax_new is: 299.735
+ymax from damping is: 330.8
+Fmax from damping is: 151.026
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 59.6 and ymax from f_b is: 62
+Fmax_prev is: 2.31695 and Fmax from f_b is: 2.37968
+Udif from f_b is: 19.5202
+Uave from f_b is: 16.7549
+delta ymax is: 2.4
+ 
+ 
+ iter is    1
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_a is: 602
+Fmax_prev is: 2.37968 and Fmax from f_a is: 299.643
+ymax_new is: 602
+Fmax_new is: 299.643
+ymax from damping is: 332
+Fmax from damping is: 151.011
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_b is: 62
+Fmax_prev is: 2.37968 and Fmax from f_b is: 2.37968
+Udif from f_b is: 19.5202
+Uave from f_b is: 16.7549
+delta ymax is: 0
+ 
+ 
+ iter is    2
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_a is: 602
+Fmax_prev is: 2.37968 and Fmax from f_a is: 299.643
+ymax_new is: 602
+Fmax_new is: 299.643
+ymax from damping is: 332
+Fmax from damping is: 151.011
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_b is: 62
+Fmax_prev is: 2.37968 and Fmax from f_b is: 2.37968
+Udif from f_b is: 19.5202
+Uave from f_b is: 16.7549
+delta ymax is: 0
+ 
+ 
+ iter is    3
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_a is: 602
+Fmax_prev is: 2.37968 and Fmax from f_a is: 299.643
+ymax_new is: 602
+Fmax_new is: 299.643
+ymax from damping is: 332
+Fmax from damping is: 151.011
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_b is: 62
+Fmax_prev is: 2.37968 and Fmax from f_b is: 2.37968
+Udif from f_b is: 19.5202
+Uave from f_b is: 16.7549
+delta ymax is: 0
+ 
+ 
+ iter is    4
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_a is: 602
+Fmax_prev is: 2.37968 and Fmax from f_a is: 299.643
+ymax_new is: 602
+Fmax_new is: 299.643
+ymax from damping is: 332
+Fmax from damping is: 151.011
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_b is: 62
+Fmax_prev is: 2.37968 and Fmax from f_b is: 2.37968
+Udif from f_b is: 19.5202
+Uave from f_b is: 16.7549
+delta ymax is: 0
+ 
+ 
+ iter is    5
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_a is: 602
+Fmax_prev is: 2.37968 and Fmax from f_a is: 299.643
+ymax_new is: 602
+Fmax_new is: 299.643
+ymax from damping is: 332
+Fmax from damping is: 151.011
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_b is: 62
+Fmax_prev is: 2.37968 and Fmax from f_b is: 2.37968
+Udif from f_b is: 19.5202
+Uave from f_b is: 16.7549
+delta ymax is: 0
+ 
+ 
+ iter is    6
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_a is: 602
+Fmax_prev is: 2.37968 and Fmax from f_a is: 299.643
+ymax_new is: 602
+Fmax_new is: 299.643
+ymax from damping is: 332
+Fmax from damping is: 151.011
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_b is: 62
+Fmax_prev is: 2.37968 and Fmax from f_b is: 2.37968
+Udif from f_b is: 19.5202
+Uave from f_b is: 16.7549
+delta ymax is: 0
+ 
+ 
+ iter is    7
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_a is: 602
+Fmax_prev is: 2.37968 and Fmax from f_a is: 299.643
+ymax_new is: 602
+Fmax_new is: 299.643
+ymax from damping is: 332
+Fmax from damping is: 151.011
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_b is: 62
+Fmax_prev is: 2.37968 and Fmax from f_b is: 2.37968
+Udif from f_b is: 19.5202
+Uave from f_b is: 16.7549
+delta ymax is: 0
+ 
+ 
+ iter is    8
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_a is: 602
+Fmax_prev is: 2.37968 and Fmax from f_a is: 299.643
+ymax_new is: 602
+Fmax_new is: 299.643
+ymax from damping is: 332
+Fmax from damping is: 151.011
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_b is: 62
+Fmax_prev is: 2.37968 and Fmax from f_b is: 2.37968
+Udif from f_b is: 19.5202
+Uave from f_b is: 16.7549
+delta ymax is: 0
+ 
+ 
+ iter is    9
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_a is: 602
+Fmax_prev is: 2.37968 and Fmax from f_a is: 299.643
+ymax_new is: 602
+Fmax_new is: 299.643
+ymax from damping is: 332
+Fmax from damping is: 151.011
+Counter is : 1198
+ 
+U_plus results file successfully written
+Laufer results successfully written
+ymax_prev is: 62 and ymax from f_b is: 62
+Fmax_prev is: 2.37968 and Fmax from f_b is: 2.37968
+Udif from f_b is: 19.5202
+Uave from f_b is: 16.7549
+delta ymax is: 0

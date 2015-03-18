@@ -1,0 +1,3 @@
+#!/bin/bash
+g++ -O3 -Wall -g num3.cpp -o Num3
+./Num3

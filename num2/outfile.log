@@ -1,0 +1,1270 @@
+num2.cpp: In function ‘int main()’:
+num2.cpp:26:49: warning: unused variable ‘R_pl’ [-Wunused-variable]
+   double A0_pl = 26;  double K = 0.41;   double R_pl = 500.0;  int counter = 0;
+                                                 ^
+num2.cpp:28:7: warning: unused variable ‘filewrite’ [-Wunused-variable]
+   int filewrite = 0;  // set to 1 to output file
+       ^
+Entering check loop
+ R+_est is = 1000
+Possible y_m found at: 219.541
+U_ave is: 1.6007
+ Re_D = 3201.4
+ R+_est is = 1600.7
+Possible y_m found at: 219.541
+U_ave is: 2.13558
+ Re_D = 6836.83
+ R+_est is = 3418.42
+Possible y_m found at: 219.541
+U_ave is: 1.52944
+ Re_D = 10456.6
+ R+_est is = 5228.28
+Possible y_m found at: 219.541
+U_ave is: 1.33333
+ Re_D = 13942
+ R+_est is = 6971.01
+Possible y_m found at: 219.541
+U_ave is: 1.247
+ Re_D = 17385.6
+ R+_est is = 8692.82
+Possible y_m found at: 219.541
+U_ave is: 1.19698
+ Re_D = 20810.2
+ R+_est is = 10405.1
+Possible y_m found at: 219.541
+U_ave is: 1.16402
+ Re_D = 24223.6
+ R+_est is = 12111.8
+Possible y_m found at: 219.541
+U_ave is: 1.1406
+ Re_D = 27629.5
+ R+_est is = 13814.8
+Possible y_m found at: 219.541
+U_ave is: 1.12308
+ Re_D = 31030.2
+ R+_est is = 15515.1
+Possible y_m found at: 219.541
+U_ave is: 1.10946
+ Re_D = 34426.9
+ R+_est is = 17213.4
+Possible y_m found at: 219.541
+U_ave is: 1.09857
+ Re_D = 37820.5
+ R+_est is = 18910.2
+Possible y_m found at: 219.541
+U_ave is: 1.08966
+ Re_D = 41211.6
+ R+_est is = 20605.8
+Possible y_m found at: 219.541
+U_ave is: 1.08224
+ Re_D = 44600.7
+ R+_est is = 22300.3
+Possible y_m found at: 219.541
+U_ave is: 1.07595
+ Re_D = 47988.1
+ R+_est is = 23994
+Possible y_m found at: 219.541
+U_ave is: 1.07056
+ Re_D = 51374
+ R+_est is = 25687
+Possible y_m found at: 219.541
+U_ave is: 1.06588
+ Re_D = 54758.8
+ R+_est is = 27379.4
+Possible y_m found at: 219.541
+U_ave is: 1.06179
+ Re_D = 58142.4
+ R+_est is = 29071.2
+Possible y_m found at: 219.541
+U_ave is: 1.05818
+ Re_D = 61525.2
+ R+_est is = 30762.6
+Possible y_m found at: 219.541
+U_ave is: 1.05497
+ Re_D = 64907.1
+ R+_est is = 32453.5
+Possible y_m found at: 219.541
+U_ave is: 1.05209
+ Re_D = 68288.2
+ R+_est is = 34144.1
+Possible y_m found at: 219.541
+U_ave is: 1.0495
+ Re_D = 71668.8
+ R+_est is = 35834.4
+Possible y_m found at: 219.541
+U_ave is: 1.04716
+ Re_D = 75048.7
+ R+_est is = 37524.3
+Possible y_m found at: 219.541
+U_ave is: 1.04503
+ Re_D = 78428.1
+ R+_est is = 39214
+Possible y_m found at: 219.541
+U_ave is: 1.04308
+ Re_D = 81807
+ R+_est is = 40903.5
+Possible y_m found at: 219.541
+U_ave is: 1.0413
+ Re_D = 85185.4
+ R+_est is = 42592.7
+Possible y_m found at: 219.541
+U_ave is: 1.03966
+ Re_D = 88563.5
+ R+_est is = 44281.7
+Possible y_m found at: 219.541
+U_ave is: 1.03814
+ Re_D = 91941.1
+ R+_est is = 45970.6
+Possible y_m found at: 219.541
+U_ave is: 1.03673
+ Re_D = 95318.5
+ R+_est is = 47659.2
+Possible y_m found at: 219.541
+U_ave is: 1.03543
+ Re_D = 98695.5
+ R+_est is = 49347.7
+Possible y_m found at: 219.541
+U_ave is: 1.03421
+ Re_D = 102072
+ R+_est is = 51036.1
+Possible y_m found at: 219.541
+U_ave is: 1.03308
+ Re_D = 105449
+ R+_est is = 52724.3
+Possible y_m found at: 219.541
+U_ave is: 1.03202
+ Re_D = 108825
+ R+_est is = 54412.4
+Possible y_m found at: 219.541
+U_ave is: 1.03102
+ Re_D = 112201
+ R+_est is = 56100.3
+Possible y_m found at: 219.541
+U_ave is: 1.03009
+ Re_D = 115576
+ R+_est is = 57788.2
+Possible y_m found at: 219.541
+U_ave is: 1.02921
+ Re_D = 118952
+ R+_est is = 59475.9
+Possible y_m found at: 219.541
+U_ave is: 1.02838
+ Re_D = 122327
+ R+_est is = 61163.6
+Possible y_m found at: 219.541
+U_ave is: 1.02759
+ Re_D = 125702
+ R+_est is = 62851.1
+Possible y_m found at: 219.541
+U_ave is: 1.02685
+ Re_D = 129077
+ R+_est is = 64538.6
+Possible y_m found at: 219.541
+U_ave is: 1.02615
+ Re_D = 132452
+ R+_est is = 66225.9
+Possible y_m found at: 219.541
+U_ave is: 1.02548
+ Re_D = 135826
+ R+_est is = 67913.2
+Possible y_m found at: 219.541
+U_ave is: 1.02484
+ Re_D = 139201
+ R+_est is = 69600.4
+Possible y_m found at: 219.541
+U_ave is: 1.02424
+ Re_D = 142575
+ R+_est is = 71287.6
+Possible y_m found at: 219.541
+U_ave is: 1.02367
+ Re_D = 145949
+ R+_est is = 72974.6
+Possible y_m found at: 219.541
+U_ave is: 1.02312
+ Re_D = 149323
+ R+_est is = 74661.6
+Possible y_m found at: 219.541
+U_ave is: 1.02259
+ Re_D = 152697
+ R+_est is = 76348.6
+Possible y_m found at: 219.541
+U_ave is: 1.02209
+ Re_D = 156071
+ R+_est is = 78035.5
+Possible y_m found at: 219.541
+U_ave is: 1.02162
+ Re_D = 159445
+ R+_est is = 79722.3
+Possible y_m found at: 219.541
+U_ave is: 1.02116
+ Re_D = 162818
+ R+_est is = 81409
+Possible y_m found at: 219.541
+U_ave is: 1.02072
+ Re_D = 166192
+ R+_est is = 83095.8
+Possible y_m found at: 219.541
+U_ave is: 1.0203
+ Re_D = 169565
+ R+_est is = 84782.4
+Possible y_m found at: 219.541
+U_ave is: 1.01989
+ Re_D = 172938
+ R+_est is = 86469
+Possible y_m found at: 219.541
+U_ave is: 1.0195
+ Re_D = 176311
+ R+_est is = 88155.6
+Possible y_m found at: 219.541
+U_ave is: 1.01913
+ Re_D = 179684
+ R+_est is = 89842.1
+Possible y_m found at: 219.541
+U_ave is: 1.01877
+ Re_D = 183057
+ R+_est is = 91528.6
+Possible y_m found at: 219.541
+U_ave is: 1.01843
+ Re_D = 186430
+ R+_est is = 93215.1
+Possible y_m found at: 219.541
+U_ave is: 1.01809
+ Re_D = 189803
+ R+_est is = 94901.5
+Possible y_m found at: 219.541
+U_ave is: 1.01777
+ Re_D = 193176
+ R+_est is = 96587.8
+Possible y_m found at: 219.541
+U_ave is: 1.01746
+ Re_D = 196548
+ R+_est is = 98274.2
+Possible y_m found at: 219.541
+U_ave is: 1.01716
+ Re_D = 199921
+ R+_est is = 99960.5
+Possible y_m found at: 219.541
+U_ave is: 1.01687
+ Re_D = 203293
+ R+_est is = 101647
+Possible y_m found at: 219.541
+U_ave is: 1.01659
+ Re_D = 206666
+ R+_est is = 103333
+Possible y_m found at: 219.541
+U_ave is: 1.01632
+ Re_D = 210038
+ R+_est is = 105019
+Possible y_m found at: 219.541
+U_ave is: 1.01606
+ Re_D = 213411
+ R+_est is = 106705
+Possible y_m found at: 219.541
+U_ave is: 1.0158
+ Re_D = 216783
+ R+_est is = 108391
+Possible y_m found at: 219.541
+U_ave is: 1.01556
+ Re_D = 220155
+ R+_est is = 110078
+Possible y_m found at: 219.541
+U_ave is: 1.01532
+ Re_D = 223527
+ R+_est is = 111764
+Possible y_m found at: 219.541
+U_ave is: 1.01509
+ Re_D = 226899
+ R+_est is = 113450
+Possible y_m found at: 219.541
+U_ave is: 1.01486
+ Re_D = 230271
+ R+_est is = 115136
+Possible y_m found at: 219.541
+U_ave is: 1.01464
+ Re_D = 233643
+ R+_est is = 116822
+Possible y_m found at: 219.541
+U_ave is: 1.01443
+ Re_D = 237015
+ R+_est is = 118508
+Possible y_m found at: 219.541
+U_ave is: 1.01423
+ Re_D = 240387
+ R+_est is = 120194
+Possible y_m found at: 219.541
+U_ave is: 1.01403
+ Re_D = 243759
+ R+_est is = 121879
+Possible y_m found at: 219.541
+U_ave is: 1.01383
+ Re_D = 247131
+ R+_est is = 123565
+Possible y_m found at: 219.541
+U_ave is: 1.01364
+ Re_D = 250502
+ R+_est is = 125251
+Possible y_m found at: 219.541
+U_ave is: 1.01346
+ Re_D = 253874
+ R+_est is = 126937
+Possible y_m found at: 219.541
+U_ave is: 1.01328
+ Re_D = 257246
+ R+_est is = 128623
+Possible y_m found at: 219.541
+U_ave is: 1.01311
+ Re_D = 260617
+ R+_est is = 130309
+Possible y_m found at: 219.541
+U_ave is: 1.01294
+ Re_D = 263989
+ R+_est is = 131995
+Possible y_m found at: 219.541
+U_ave is: 1.01277
+ Re_D = 267361
+ R+_est is = 133680
+Possible y_m found at: 219.541
+U_ave is: 1.01261
+ Re_D = 270732
+ R+_est is = 135366
+Possible y_m found at: 219.541
+U_ave is: 1.01245
+ Re_D = 274104
+ R+_est is = 137052
+Possible y_m found at: 219.541
+U_ave is: 1.0123
+ Re_D = 277475
+ R+_est is = 138738
+Possible y_m found at: 219.541
+U_ave is: 1.01215
+ Re_D = 280846
+ R+_est is = 140423
+Possible y_m found at: 219.541
+U_ave is: 1.012
+ Re_D = 284218
+ R+_est is = 142109
+Possible y_m found at: 219.541
+U_ave is: 1.01186
+ Re_D = 287589
+ R+_est is = 143795
+Possible y_m found at: 219.541
+U_ave is: 1.01172
+ Re_D = 290960
+ R+_est is = 145480
+Possible y_m found at: 219.541
+U_ave is: 1.01159
+ Re_D = 294332
+ R+_est is = 147166
+Possible y_m found at: 219.541
+U_ave is: 1.01145
+ Re_D = 297703
+ R+_est is = 148851
+Possible y_m found at: 219.541
+U_ave is: 1.01132
+ Re_D = 301074
+ R+_est is = 150537
+Possible y_m found at: 219.541
+U_ave is: 1.0112
+ Re_D = 304445
+ R+_est is = 152223
+Possible y_m found at: 219.541
+U_ave is: 1.01107
+ Re_D = 307816
+ R+_est is = 153908
+Possible y_m found at: 219.541
+U_ave is: 1.01095
+ Re_D = 311188
+ R+_est is = 155594
+Possible y_m found at: 219.541
+U_ave is: 1.01083
+ Re_D = 314559
+ R+_est is = 157279
+Possible y_m found at: 219.541
+U_ave is: 1.01072
+ Re_D = 317930
+ R+_est is = 158965
+Possible y_m found at: 219.541
+U_ave is: 1.0106
+ Re_D = 321301
+ R+_est is = 160650
+Possible y_m found at: 219.541
+U_ave is: 1.01049
+ Re_D = 324672
+ R+_est is = 162336
+Possible y_m found at: 219.541
+U_ave is: 1.01038
+ Re_D = 328043
+ R+_est is = 164021
+Possible y_m found at: 219.541
+U_ave is: 1.01028
+ Re_D = 331414
+ R+_est is = 165707
+Possible y_m found at: 219.541
+U_ave is: 1.01017
+ Re_D = 334785
+ R+_est is = 167392
+Possible y_m found at: 219.541
+U_ave is: 1.01007
+ Re_D = 338156
+ R+_est is = 169078
+Possible y_m found at: 219.541
+U_ave is: 1.00997
+ Re_D = 341526
+ R+_est is = 170763
+Possible y_m found at: 219.541
+U_ave is: 1.00987
+ Re_D = 344897
+ R+_est is = 172449
+Possible y_m found at: 219.541
+U_ave is: 1.00977
+ Re_D = 348268
+ R+_est is = 174134
+Possible y_m found at: 219.541
+U_ave is: 1.00968
+ Re_D = 351639
+ R+_est is = 175819
+Possible y_m found at: 219.541
+U_ave is: 1.00959
+ Re_D = 355010
+ R+_est is = 177505
+Possible y_m found at: 219.541
+U_ave is: 1.00949
+ Re_D = 358380
+ R+_est is = 179190
+Possible y_m found at: 219.541
+U_ave is: 1.00941
+ Re_D = 361751
+ R+_est is = 180876
+Possible y_m found at: 219.541
+U_ave is: 1.00932
+ Re_D = 365122
+ R+_est is = 182561
+Possible y_m found at: 219.541
+U_ave is: 1.00923
+ Re_D = 368493
+ R+_est is = 184246
+Possible y_m found at: 219.541
+U_ave is: 1.00915
+ Re_D = 371863
+ R+_est is = 185932
+Possible y_m found at: 219.541
+U_ave is: 1.00906
+ Re_D = 375234
+ R+_est is = 187617
+Possible y_m found at: 219.541
+U_ave is: 1.00898
+ Re_D = 378605
+ R+_est is = 189302
+Possible y_m found at: 219.541
+U_ave is: 1.0089
+ Re_D = 381975
+ R+_est is = 190988
+Possible y_m found at: 219.541
+U_ave is: 1.00882
+ Re_D = 385346
+ R+_est is = 192673
+Possible y_m found at: 219.541
+U_ave is: 1.00875
+ Re_D = 388717
+ R+_est is = 194358
+Possible y_m found at: 219.541
+U_ave is: 1.00867
+ Re_D = 392087
+ R+_est is = 196044
+Possible y_m found at: 219.541
+U_ave is: 1.0086
+ Re_D = 395458
+ R+_est is = 197729
+Possible y_m found at: 219.541
+U_ave is: 1.00852
+ Re_D = 398828
+ R+_est is = 199414
+Possible y_m found at: 219.541
+U_ave is: 1.00845
+ Re_D = 402199
+ R+_est is = 201099
+Possible y_m found at: 219.541
+U_ave is: 1.00838
+ Re_D = 405569
+ R+_est is = 202785
+Possible y_m found at: 219.541
+U_ave is: 1.00831
+ Re_D = 408940
+ R+_est is = 204470
+Possible y_m found at: 219.541
+U_ave is: 1.00824
+ Re_D = 412310
+ R+_est is = 206155
+Possible y_m found at: 219.541
+U_ave is: 1.00817
+ Re_D = 415681
+ R+_est is = 207840
+Possible y_m found at: 219.541
+U_ave is: 1.00811
+ Re_D = 419051
+ R+_est is = 209526
+Possible y_m found at: 219.541
+U_ave is: 1.00804
+ Re_D = 422422
+ R+_est is = 211211
+Possible y_m found at: 219.541
+U_ave is: 1.00798
+ Re_D = 425792
+ R+_est is = 212896
+Possible y_m found at: 219.541
+U_ave is: 1.00792
+ Re_D = 429162
+ R+_est is = 214581
+Possible y_m found at: 219.541
+U_ave is: 1.00785
+ Re_D = 432533
+ R+_est is = 216266
+Possible y_m found at: 219.541
+U_ave is: 1.00779
+ Re_D = 435903
+ R+_est is = 217952
+Possible y_m found at: 219.541
+U_ave is: 1.00773
+ Re_D = 439274
+ R+_est is = 219637
+Possible y_m found at: 219.541
+U_ave is: 1.00767
+ Re_D = 442644
+ R+_est is = 221322
+Possible y_m found at: 219.541
+U_ave is: 1.00761
+ Re_D = 446014
+ R+_est is = 223007
+Possible y_m found at: 219.541
+U_ave is: 1.00756
+ Re_D = 449385
+ R+_est is = 224692
+Possible y_m found at: 219.541
+U_ave is: 1.0075
+ Re_D = 452755
+ R+_est is = 226377
+Possible y_m found at: 219.541
+U_ave is: 1.00744
+ Re_D = 456125
+ R+_est is = 228063
+Possible y_m found at: 219.541
+U_ave is: 1.00739
+ Re_D = 459495
+ R+_est is = 229748
+Possible y_m found at: 219.541
+U_ave is: 1.00733
+ Re_D = 462866
+ R+_est is = 231433
+Possible y_m found at: 219.541
+U_ave is: 1.00728
+ Re_D = 466236
+ R+_est is = 233118
+Possible y_m found at: 219.541
+U_ave is: 1.00723
+ Re_D = 469606
+ R+_est is = 234803
+Possible y_m found at: 219.541
+U_ave is: 1.00718
+ Re_D = 472976
+ R+_est is = 236488
+Possible y_m found at: 219.541
+U_ave is: 1.00713
+ Re_D = 476347
+ R+_est is = 238173
+Possible y_m found at: 219.541
+U_ave is: 1.00708
+ Re_D = 479717
+ R+_est is = 239858
+Possible y_m found at: 219.541
+U_ave is: 1.00703
+ Re_D = 483087
+ R+_est is = 241544
+Possible y_m found at: 219.541
+U_ave is: 1.00698
+ Re_D = 486457
+ R+_est is = 243229
+Possible y_m found at: 219.541
+U_ave is: 1.00693
+ Re_D = 489827
+ R+_est is = 244914
+Possible y_m found at: 219.541
+U_ave is: 1.00688
+ Re_D = 493198
+ R+_est is = 246599
+Possible y_m found at: 219.541
+U_ave is: 1.00683
+ Re_D = 496568
+ R+_est is = 248284
+Possible y_m found at: 219.541
+U_ave is: 1.00679
+ Re_D = 499938
+ R+_est is = 249969
+Possible y_m found at: 219.541
+U_ave is: 1.00674
+ Re_D = 503308
+ R+_est is = 251654
+Possible y_m found at: 219.541
+U_ave is: 1.0067
+ Re_D = 506678
+ R+_est is = 253339
+Possible y_m found at: 219.541
+U_ave is: 1.00665
+ Re_D = 510048
+ R+_est is = 255024
+Possible y_m found at: 219.541
+U_ave is: 1.00661
+ Re_D = 513418
+ R+_est is = 256709
+Possible y_m found at: 219.541
+U_ave is: 1.00656
+ Re_D = 516788
+ R+_est is = 258394
+Possible y_m found at: 219.541
+U_ave is: 1.00652
+ Re_D = 520159
+ R+_est is = 260079
+Possible y_m found at: 219.541
+U_ave is: 1.00648
+ Re_D = 523529
+ R+_est is = 261764
+Possible y_m found at: 219.541
+U_ave is: 1.00644
+ Re_D = 526899
+ R+_est is = 263449
+Possible y_m found at: 219.541
+U_ave is: 1.0064
+ Re_D = 530269
+ R+_est is = 265134
+Possible y_m found at: 219.541
+U_ave is: 1.00636
+ Re_D = 533639
+ R+_est is = 266819
+Possible y_m found at: 219.541
+U_ave is: 1.00632
+ Re_D = 537009
+ R+_est is = 268504
+Possible y_m found at: 219.541
+U_ave is: 1.00628
+ Re_D = 540379
+ R+_est is = 270189
+Possible y_m found at: 219.541
+U_ave is: 1.00624
+ Re_D = 543749
+ R+_est is = 271874
+Possible y_m found at: 219.541
+U_ave is: 1.0062
+ Re_D = 547119
+ R+_est is = 273559
+Possible y_m found at: 219.541
+U_ave is: 1.00616
+ Re_D = 550489
+ R+_est is = 275244
+Possible y_m found at: 219.541
+U_ave is: 1.00612
+ Re_D = 553859
+ R+_est is = 276929
+Possible y_m found at: 219.541
+U_ave is: 1.00608
+ Re_D = 557229
+ R+_est is = 278614
+Possible y_m found at: 219.541
+U_ave is: 1.00605
+ Re_D = 560599
+ R+_est is = 280299
+Possible y_m found at: 219.541
+U_ave is: 1.00601
+ Re_D = 563969
+ R+_est is = 281984
+Possible y_m found at: 219.541
+U_ave is: 1.00598
+ Re_D = 567339
+ R+_est is = 283669
+Possible y_m found at: 219.541
+U_ave is: 1.00594
+ Re_D = 570709
+ R+_est is = 285354
+Possible y_m found at: 219.541
+U_ave is: 1.0059
+ Re_D = 574079
+ R+_est is = 287039
+Possible y_m found at: 219.541
+U_ave is: 1.00587
+ Re_D = 577449
+ R+_est is = 288724
+Possible y_m found at: 219.541
+U_ave is: 1.00584
+ Re_D = 580818
+ R+_est is = 290409
+Possible y_m found at: 219.541
+U_ave is: 1.0058
+ Re_D = 584188
+ R+_est is = 292094
+Possible y_m found at: 219.541
+U_ave is: 1.00577
+ Re_D = 587558
+ R+_est is = 293779
+Possible y_m found at: 219.541
+U_ave is: 1.00574
+ Re_D = 590928
+ R+_est is = 295464
+Possible y_m found at: 219.541
+U_ave is: 1.0057
+ Re_D = 594298
+ R+_est is = 297149
+Possible y_m found at: 219.541
+U_ave is: 1.00567
+ Re_D = 597668
+ R+_est is = 298834
+Possible y_m found at: 219.541
+U_ave is: 1.00564
+ Re_D = 601038
+ R+_est is = 300519
+Possible y_m found at: 219.541
+U_ave is: 1.00561
+ Re_D = 604408
+ R+_est is = 302204
+Possible y_m found at: 219.541
+U_ave is: 1.00558
+ Re_D = 607778
+ R+_est is = 303889
+Possible y_m found at: 219.541
+U_ave is: 1.00554
+ Re_D = 611147
+ R+_est is = 305574
+Possible y_m found at: 219.541
+U_ave is: 1.00551
+ Re_D = 614517
+ R+_est is = 307259
+Possible y_m found at: 219.541
+U_ave is: 1.00548
+ Re_D = 617887
+ R+_est is = 308944
+Possible y_m found at: 219.541
+U_ave is: 1.00545
+ Re_D = 621257
+ R+_est is = 310628
+Possible y_m found at: 219.541
+U_ave is: 1.00542
+ Re_D = 624627
+ R+_est is = 312313
+Possible y_m found at: 219.541
+U_ave is: 1.00539
+ Re_D = 627997
+ R+_est is = 313998
+Possible y_m found at: 219.541
+U_ave is: 1.00537
+ Re_D = 631366
+ R+_est is = 315683
+Possible y_m found at: 219.541
+U_ave is: 1.00534
+ Re_D = 634736
+ R+_est is = 317368
+Possible y_m found at: 219.541
+U_ave is: 1.00531
+ Re_D = 638106
+ R+_est is = 319053
+Possible y_m found at: 219.541
+U_ave is: 1.00528
+ Re_D = 641476
+ R+_est is = 320738
+Possible y_m found at: 219.541
+U_ave is: 1.00525
+ Re_D = 644846
+ R+_est is = 322423
+Possible y_m found at: 219.541
+U_ave is: 1.00523
+ Re_D = 648215
+ R+_est is = 324108
+Possible y_m found at: 219.541
+U_ave is: 1.0052
+ Re_D = 651585
+ R+_est is = 325793
+Possible y_m found at: 219.541
+U_ave is: 1.00517
+ Re_D = 654955
+ R+_est is = 327477
+Possible y_m found at: 219.541
+U_ave is: 1.00515
+ Re_D = 658325
+ R+_est is = 329162
+Possible y_m found at: 219.541
+U_ave is: 1.00512
+ Re_D = 661694
+ R+_est is = 330847
+Possible y_m found at: 219.541
+U_ave is: 1.00509
+ Re_D = 665064
+ R+_est is = 332532
+Possible y_m found at: 219.541
+U_ave is: 1.00507
+ Re_D = 668434
+ R+_est is = 334217
+Possible y_m found at: 219.541
+U_ave is: 1.00504
+ Re_D = 671804
+ R+_est is = 335902
+Possible y_m found at: 219.541
+U_ave is: 1.00502
+ Re_D = 675173
+ R+_est is = 337587
+Possible y_m found at: 219.541
+U_ave is: 1.00499
+ Re_D = 678543
+ R+_est is = 339272
+Possible y_m found at: 219.541
+U_ave is: 1.00497
+ Re_D = 681913
+ R+_est is = 340956
+Possible y_m found at: 219.541
+U_ave is: 1.00494
+ Re_D = 685282
+ R+_est is = 342641
+Possible y_m found at: 219.541
+U_ave is: 1.00492
+ Re_D = 688652
+ R+_est is = 344326
+Possible y_m found at: 219.541
+U_ave is: 1.00489
+ Re_D = 692022
+ R+_est is = 346011
+Possible y_m found at: 219.541
+U_ave is: 1.00487
+ Re_D = 695392
+ R+_est is = 347696
+Possible y_m found at: 219.541
+U_ave is: 1.00485
+ Re_D = 698761
+ R+_est is = 349381
+Possible y_m found at: 219.541
+U_ave is: 1.00482
+ Re_D = 702131
+ R+_est is = 351065
+Possible y_m found at: 219.541
+U_ave is: 1.0048
+ Re_D = 705501
+ R+_est is = 352750
+Possible y_m found at: 219.541
+U_ave is: 1.00478
+ Re_D = 708870
+ R+_est is = 354435
+Possible y_m found at: 219.541
+U_ave is: 1.00475
+ Re_D = 712240
+ R+_est is = 356120
+Possible y_m found at: 219.541
+U_ave is: 1.00473
+ Re_D = 715610
+ R+_est is = 357805
+Possible y_m found at: 219.541
+U_ave is: 1.00471
+ Re_D = 718979
+ R+_est is = 359490
+Possible y_m found at: 219.541
+U_ave is: 1.00469
+ Re_D = 722349
+ R+_est is = 361174
+Possible y_m found at: 219.541
+U_ave is: 1.00466
+ Re_D = 725719
+ R+_est is = 362859
+Possible y_m found at: 219.541
+U_ave is: 1.00464
+ Re_D = 729088
+ R+_est is = 364544
+Possible y_m found at: 219.541
+U_ave is: 1.00462
+ Re_D = 732458
+ R+_est is = 366229
+Possible y_m found at: 219.541
+U_ave is: 1.0046
+ Re_D = 735827
+ R+_est is = 367914
+Possible y_m found at: 219.541
+U_ave is: 1.00458
+ Re_D = 739197
+ R+_est is = 369599
+Possible y_m found at: 219.541
+U_ave is: 1.00456
+ Re_D = 742567
+ R+_est is = 371283
+Possible y_m found at: 219.541
+U_ave is: 1.00454
+ Re_D = 745936
+ R+_est is = 372968
+Possible y_m found at: 219.541
+U_ave is: 1.00452
+ Re_D = 749306
+ R+_est is = 374653
+Possible y_m found at: 219.541
+U_ave is: 1.0045
+ Re_D = 752676
+ R+_est is = 376338
+Possible y_m found at: 219.541
+U_ave is: 1.00448
+ Re_D = 756045
+ R+_est is = 378023
+Possible y_m found at: 219.541
+U_ave is: 1.00446
+ Re_D = 759415
+ R+_est is = 379707
+Possible y_m found at: 219.541
+U_ave is: 1.00444
+ Re_D = 762784
+ R+_est is = 381392
+Possible y_m found at: 219.541
+U_ave is: 1.00442
+ Re_D = 766154
+ R+_est is = 383077
+Possible y_m found at: 219.541
+U_ave is: 1.0044
+ Re_D = 769524
+ R+_est is = 384762
+Possible y_m found at: 219.541
+U_ave is: 1.00438
+ Re_D = 772893
+ R+_est is = 386447
+Possible y_m found at: 219.541
+U_ave is: 1.00436
+ Re_D = 776263
+ R+_est is = 388131
+Possible y_m found at: 219.541
+U_ave is: 1.00434
+ Re_D = 779632
+ R+_est is = 389816
+Possible y_m found at: 219.541
+U_ave is: 1.00432
+ Re_D = 783002
+ R+_est is = 391501
+Possible y_m found at: 219.541
+U_ave is: 1.0043
+ Re_D = 786371
+ R+_est is = 393186
+Possible y_m found at: 219.541
+U_ave is: 1.00428
+ Re_D = 789741
+ R+_est is = 394870
+Possible y_m found at: 219.541
+U_ave is: 1.00427
+ Re_D = 793111
+ R+_est is = 396555
+Possible y_m found at: 219.541
+U_ave is: 1.00425
+ Re_D = 796480
+ R+_est is = 398240
+Possible y_m found at: 219.541
+U_ave is: 1.00423
+ Re_D = 799850
+ R+_est is = 399925
+Possible y_m found at: 219.541
+U_ave is: 1.00421
+ Re_D = 803219
+ R+_est is = 401610
+Possible y_m found at: 219.541
+U_ave is: 1.0042
+ Re_D = 806589
+ R+_est is = 403294
+Possible y_m found at: 219.541
+U_ave is: 1.00418
+ Re_D = 809958
+ R+_est is = 404979
+Possible y_m found at: 219.541
+U_ave is: 1.00416
+ Re_D = 813328
+ R+_est is = 406664
+Possible y_m found at: 219.541
+U_ave is: 1.00414
+ Re_D = 816697
+ R+_est is = 408349
+Possible y_m found at: 219.541
+U_ave is: 1.00413
+ Re_D = 820067
+ R+_est is = 410033
+Possible y_m found at: 219.541
+U_ave is: 1.00411
+ Re_D = 823436
+ R+_est is = 411718
+Possible y_m found at: 219.541
+U_ave is: 1.00409
+ Re_D = 826806
+ R+_est is = 413403
+Possible y_m found at: 219.541
+U_ave is: 1.00408
+ Re_D = 830175
+ R+_est is = 415088
+Possible y_m found at: 219.541
+U_ave is: 1.00406
+ Re_D = 833545
+ R+_est is = 416772
+Possible y_m found at: 219.541
+U_ave is: 1.00404
+ Re_D = 836914
+ R+_est is = 418457
+Possible y_m found at: 219.541
+U_ave is: 1.00403
+ Re_D = 840284
+ R+_est is = 420142
+Possible y_m found at: 219.541
+U_ave is: 1.00401
+ Re_D = 843653
+ R+_est is = 421827
+Possible y_m found at: 219.541
+U_ave is: 1.00399
+ Re_D = 847023
+ R+_est is = 423511
+Possible y_m found at: 219.541
+U_ave is: 1.00398
+ Re_D = 850392
+ R+_est is = 425196
+Possible y_m found at: 219.541
+U_ave is: 1.00396
+ Re_D = 853762
+ R+_est is = 426881
+Possible y_m found at: 219.541
+U_ave is: 1.00395
+ Re_D = 857131
+ R+_est is = 428566
+Possible y_m found at: 219.541
+U_ave is: 1.00393
+ Re_D = 860501
+ R+_est is = 430250
+Possible y_m found at: 219.541
+U_ave is: 1.00392
+ Re_D = 863870
+ R+_est is = 431935
+Possible y_m found at: 219.541
+U_ave is: 1.0039
+ Re_D = 867240
+ R+_est is = 433620
+Possible y_m found at: 219.541
+U_ave is: 1.00389
+ Re_D = 870609
+ R+_est is = 435305
+Possible y_m found at: 219.541
+U_ave is: 1.00387
+ Re_D = 873979
+ R+_est is = 436989
+Possible y_m found at: 219.541
+U_ave is: 1.00386
+ Re_D = 877348
+ R+_est is = 438674
+Possible y_m found at: 219.541
+U_ave is: 1.00384
+ Re_D = 880718
+ R+_est is = 440359
+Possible y_m found at: 219.541
+U_ave is: 1.00383
+ Re_D = 884087
+ R+_est is = 442044
+Possible y_m found at: 219.541
+U_ave is: 1.00381
+ Re_D = 887457
+ R+_est is = 443728
+Possible y_m found at: 219.541
+U_ave is: 1.0038
+ Re_D = 890826
+ R+_est is = 445413
+Possible y_m found at: 219.541
+U_ave is: 1.00378
+ Re_D = 894195
+ R+_est is = 447098
+Possible y_m found at: 219.541
+U_ave is: 1.00377
+ Re_D = 897565
+ R+_est is = 448782
+Possible y_m found at: 219.541
+U_ave is: 1.00375
+ Re_D = 900934
+ R+_est is = 450467
+Possible y_m found at: 219.541
+U_ave is: 1.00374
+ Re_D = 904304
+ R+_est is = 452152
+Possible y_m found at: 219.541
+U_ave is: 1.00373
+ Re_D = 907673
+ R+_est is = 453837
+Possible y_m found at: 219.541
+U_ave is: 1.00371
+ Re_D = 911043
+ R+_est is = 455521
+Possible y_m found at: 219.541
+U_ave is: 1.0037
+ Re_D = 914412
+ R+_est is = 457206
+Possible y_m found at: 219.541
+U_ave is: 1.00368
+ Re_D = 917781
+ R+_est is = 458891
+Possible y_m found at: 219.541
+U_ave is: 1.00367
+ Re_D = 921151
+ R+_est is = 460575
+Possible y_m found at: 219.541
+U_ave is: 1.00366
+ Re_D = 924520
+ R+_est is = 462260
+Possible y_m found at: 219.541
+U_ave is: 1.00364
+ Re_D = 927890
+ R+_est is = 463945
+Possible y_m found at: 219.541
+U_ave is: 1.00363
+ Re_D = 931259
+ R+_est is = 465630
+Possible y_m found at: 219.541
+U_ave is: 1.00362
+ Re_D = 934628
+ R+_est is = 467314
+Possible y_m found at: 219.541
+U_ave is: 1.00361
+ Re_D = 937998
+ R+_est is = 468999
+Possible y_m found at: 219.541
+U_ave is: 1.00359
+ Re_D = 941367
+ R+_est is = 470684
+Possible y_m found at: 219.541
+U_ave is: 1.00358
+ Re_D = 944737
+ R+_est is = 472368
+Possible y_m found at: 219.541
+U_ave is: 1.00357
+ Re_D = 948106
+ R+_est is = 474053
+Possible y_m found at: 219.541
+U_ave is: 1.00355
+ Re_D = 951475
+ R+_est is = 475738
+Possible y_m found at: 219.541
+U_ave is: 1.00354
+ Re_D = 954845
+ R+_est is = 477422
+Possible y_m found at: 219.541
+U_ave is: 1.00353
+ Re_D = 958214
+ R+_est is = 479107
+Possible y_m found at: 219.541
+U_ave is: 1.00352
+ Re_D = 961584
+ R+_est is = 480792
+Possible y_m found at: 219.541
+U_ave is: 1.0035
+ Re_D = 964953
+ R+_est is = 482477
+Possible y_m found at: 219.541
+U_ave is: 1.00349
+ Re_D = 968322
+ R+_est is = 484161
+Possible y_m found at: 219.541
+U_ave is: 1.00348
+ Re_D = 971692
+ R+_est is = 485846
+Possible y_m found at: 219.541
+U_ave is: 1.00347
+ Re_D = 975061
+ R+_est is = 487531
+Possible y_m found at: 219.541
+U_ave is: 1.00346
+ Re_D = 978431
+ R+_est is = 489215
+Possible y_m found at: 219.541
+U_ave is: 1.00344
+ Re_D = 981800
+ R+_est is = 490900
+Possible y_m found at: 219.541
+U_ave is: 1.00343
+ Re_D = 985169
+ R+_est is = 492585
+Possible y_m found at: 219.541
+U_ave is: 1.00342
+ Re_D = 988539
+ R+_est is = 494269
+Possible y_m found at: 219.541
+U_ave is: 1.00341
+ Re_D = 991908
+ R+_est is = 495954
+Possible y_m found at: 219.541
+U_ave is: 1.0034
+ Re_D = 995277
+ R+_est is = 497639
+Possible y_m found at: 219.541
+U_ave is: 1.00339
+ Re_D = 998647
+ R+_est is = 499323
+Possible y_m found at: 219.541
+U_ave is: 1.00337
+ Re_D = 1.00202e+06
+ R+_est is = 501008
+Possible y_m found at: 219.541
+U_ave is: 1.00336
+ Re_D = 1.00539e+06
+ R+_est is = 502693
+Possible y_m found at: 219.541
+U_ave is: 1.00335
+ Re_D = 1.00875e+06
+ R+_est is = 504377
+Possible y_m found at: 219.541
+U_ave is: 1.00334
+ Re_D = 1.01212e+06
+ R+_est is = 506062
+Possible y_m found at: 219.541
+U_ave is: 1.00333
+ Re_D = 1.01549e+06
+ R+_est is = 507747
+Possible y_m found at: 219.541
+U_ave is: 1.00332
+ Re_D = 1.01886e+06
+ R+_est is = 509431
+Possible y_m found at: 219.541
+U_ave is: 1.00331
+ Re_D = 1.02223e+06
+ R+_est is = 511116
+Possible y_m found at: 219.541
+U_ave is: 1.0033
+ Re_D = 1.0256e+06
+ R+_est is = 512801
+Possible y_m found at: 219.541
+U_ave is: 1.00329
+ Re_D = 1.02897e+06
+ R+_est is = 514485
+Possible y_m found at: 219.541
+U_ave is: 1.00327
+ Re_D = 1.03234e+06
+ R+_est is = 516170
+Possible y_m found at: 219.541
+U_ave is: 1.00326
+ Re_D = 1.03571e+06
+ R+_est is = 517855
+Possible y_m found at: 219.541
+U_ave is: 1.00325
+ Re_D = 1.03908e+06
+ R+_est is = 519539
+Possible y_m found at: 219.541
+U_ave is: 1.00324
+ Re_D = 1.04245e+06
+ R+_est is = 521224
+Possible y_m found at: 219.541
+U_ave is: 1.00323
+ Re_D = 1.04582e+06
+ R+_est is = 522909
+Possible y_m found at: 219.541
+U_ave is: 1.00322
+ Re_D = 1.04919e+06
+ R+_est is = 524593
+Possible y_m found at: 219.541
+U_ave is: 1.00321
+ Re_D = 1.05256e+06
+ R+_est is = 526278
+Possible y_m found at: 219.541
+U_ave is: 1.0032
+ Re_D = 1.05593e+06
+ R+_est is = 527963
+Possible y_m found at: 219.541
+U_ave is: 1.00319
+ Re_D = 1.05929e+06
+ R+_est is = 529647
+Possible y_m found at: 219.541
+U_ave is: 1.00318
+ Re_D = 1.06266e+06
+ R+_est is = 531332
+Possible y_m found at: 219.541

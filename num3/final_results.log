@@ -1,0 +1,75 @@
+   ymax = 2502.2  Fmax = 1250.12
+ Number of ymax iterations is =    31
+   ymax = 1252.4  Fmax = 625.188
+ Number of ymax iterations is =    61
+   ymax = 634.6  Fmax = 4.26047
+ Number of ymax iterations is =    97
+   ymax = 318.4  Fmax = 4.2257
+ Number of ymax iterations is =    123
+   ymax = 476.6  Fmax = 4.24838
+ Number of ymax iterations is =    141
+   ymax = 555.6  Fmax = 4.25528
+ Number of ymax iterations is =    166
+   ymax = 516  Fmax = 4.25251
+ Number of ymax iterations is =    190
+   ymax = 535.8  Fmax = 4.25395
+ Number of ymax iterations is =    213
+   ymax = 545.6  Fmax = 4.25502
+ Number of ymax iterations is =    233
+   ymax = 540.8  Fmax = 4.25409
+ Number of ymax iterations is =    253
+   ymax = 538.2  Fmax = 4.25442
+ Number of ymax iterations is =    273
+   ymax = 539.6  Fmax = 4.25386
+ Number of ymax iterations is =    292
+   ymax = 538.8  Fmax = 4.25454
+ Number of ymax iterations is =    310
+   ymax = 539.2  Fmax = 4.2542
+ Number of ymax iterations is =    327
+   ymax = 539  Fmax = 4.25437
+ Number of ymax iterations is =    343
+   ymax = 539.2  Fmax = 4.25388
+ Number of ymax iterations is =    359
+   ymax = 539.2  Fmax = 4.25404
+ Number of ymax iterations is =    361
+   ymax = 539.2  Fmax = 4.25396
+ Number of ymax iterations is =    362
+   ymax = 539.2  Fmax = 4.254
+ Number of ymax iterations is =    363
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25399
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25399
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+   ymax = 539.2  Fmax = 4.25398
+ Number of ymax iterations is =    364
+ Final results Re_D = 40000
+ Final results R+ = 1062.19
+ Final U_ave = 18.829
+Number of bisection iterations = 34
+ 
+U_plus results file successfully written
+Laufer results successfully written
